@@ -5,3 +5,6 @@ v1: Domain will be used to lookup the business and report the rating and if the 
 v2: Add lookups for companies without a domain, such as those that appear in Yahoo Local, Google Maps/Businesses, and Yelp.
 
 v3: Allow users to highlight a business name or domain and right-click to receive rating info.
+
+
+test
